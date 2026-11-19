@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Implicit_intents_Android_Studio</string>
+    <string name="naslov">Implicit intents</string>
+    <string name="uri">https://developer.android.com</string>
+    <string name="gumb1">Open website</string>
+    <string name="sola">Schoole Center Nova Gorica</string>
+    <string name="gumb2">Open location</string>
+    <string name="text">Na SCNG razvijamo znanje za prihodnost</string>
+    <string name="gumb3">Share this text</string>
+    <string name="telefon">010 010 010</string>
+    <string name="gumb4">Uporabi telefon</string>
+</resources>
